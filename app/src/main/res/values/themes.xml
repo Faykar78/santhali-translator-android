@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        For a pure Jetpack Compose app, the XML theme only needs to:
+        1. Have no action bar (Compose handles the full UI)
+        2. Be compatible with compileSdk 37
+
+        Theme.AppCompat.DayNight.NoActionBar comes from the appcompat library
+        we already depend on and works on all API levels >= 14.
+    -->
+    <style name="Theme.SanthaliTranslator" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>

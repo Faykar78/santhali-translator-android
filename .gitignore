@@ -1,0 +1,30 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/build/
+
+# Model files (too large for GitHub — download separately)
+app/src/main/assets/models/
+app/libs/sherpa-onnx.aar.bak
+
+# Keystore
+*.jks
+*.keystore
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# IDE
+.idea/
+*.swp
+*~

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Santhali Translator</string>
+    <string name="mic_permission_rationale">Microphone access is needed for speech recognition.</string>
+</resources>
